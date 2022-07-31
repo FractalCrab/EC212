@@ -1,0 +1,1 @@
+Welcome to this GitHub page for EC212 Introduction to Econometrics! This is where I'll post the notes that I make in the live sessions and any extra material that might help you get your head around the course content
