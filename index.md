@@ -2,6 +2,7 @@ Welcome to this GitHub page for EC212 Introduction to Econometrics! This is wher
 
 ## Class Material
 * **Class 1 Slides** [here](First_EC212_Class.pdf) on an introduction to the course and on Stata
+* **OVB notes** [here](Quick OVB Notes.pdf) - these are notes talking more about the analogy between the OVB formula and the chain rule, that I made for a course that I taught less year
 
 ## Other Resources
 * [Intro to Stats](https://seeing-theory.brown.edu) - this is a website which introduces many of the fundamental concepts in Statistics in a visual way. If you need a refresher, or if you feel like you don't fully understand what the concepts are intuitively, this might be useful
