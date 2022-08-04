@@ -2,7 +2,19 @@ Welcome to this GitHub page for EC212 Introduction to Econometrics! This is wher
 
 ## Class Material
 * **Class 1 Slides** [here](First_EC212_Class.pdf) on an introduction to the course and on Stata
-* **OVB notes** [here](Quick OVB Notes.pdf) - these are notes talking more about the analogy between the OVB formula and the chain rule, that I made for a course that I taught less year
+
+## Bonus Resources for EC212
+These were written by me for previous courses that I've taught at LSE
+
+* **On the Point of Statistics** [here](Point of Stats.pdf) - this is a presentation which talks about hypothesis testing, how it's applied to OLS, and what estimation is all about
+
+* **OVB notes** [here](Quick OVB Notes.pdf) - these are notes talking more about the analogy between the OVB formula and the chain rule
+
+* **On Robust Standard Errors** [here](Robust SEs.pdf) - if you want to know what running OLS with Robust Standard Errors is doing, this should help explain it. These notes were made for a course called EC221 that I taught last year where the first semester (which we call MT) was like this course and the second (LT) is done using matrix algebra; it turns out that using matrices is something we do all the time in later econometrics courses, but we don't do it in an introductory course like EC212 because we want you to get a good intuition first. So please ignore when it says about 'what we'll talk about in the LT', and don't be intimidated by matrices!
+
+* **On Interaction Effects** [here](Interaction Effects.pdf) - interaction effects are when we multiply two variables together and include them in the regression (which we could implement by using _gen_ in Stata, of course). This allows us to study if effects are different for different groups - by 'effects' we mean either correlations or causations, depending on whether our parameters can be interpreted causally or not. Some people get confused about this topic so there are some notes here that might help
+
+* **Hypothesis Testing Notes** [here](Hypothesis_Testing.pdf) - 'On the Point of Statistics' gives an introduction to testing at the end that should be sufficient for the first week of the course. However, if you really want to understanding the classical types of testing that I talk about in Thursday's class this gives more detail and some diagrams. As this was written for the second semester of EC221, also be aware that there are many details here that are not on our syllabus, and that you see some matrices in the notes that we won't be using
 
 ## Other Resources
 * [Intro to Stats](https://seeing-theory.brown.edu) - this is a website which introduces many of the fundamental concepts in Statistics in a visual way. If you need a refresher, or if you feel like you don't fully understand what the concepts are intuitively, this might be useful
@@ -16,7 +28,3 @@ Welcome to this GitHub page for EC212 Introduction to Econometrics! This is wher
 * If you want to see some examples of how machine learning has been blended with Econometrics in recent years, I'm very happy to recommend papers for you to glance at. Please don't expect to understand any of them now unless you have a very strong statistics background, as there's a lot of ground to cover between the start of EC212 and the research frontier. But in case you're interested, some famous examples are [Double Debiased Machine Learning](https://academic.oup.com/ectj/article/21/1/C1/5056401) - which talks about how you can use modern machine learning methods to help solve a particular metrics problem which people found tricky for decades, and [Political Bias](https://scholar.harvard.edu/files/shapiro/files/politext.pdf) - which uses textual analysis methods to measure the political bias of congressmen and women in the US House of Representatives
 
 * If you're interested in the kind of thing I do my research in, I'm working nowadays on methods which help to analyze external validity - the question of when different causal effects are bigger or smaller in different situations (such as a policy being more effective if implemented in one country than another). A presentation which I gave to some of the PhD students summarizing one of the first methods people used to do this is [here](Bayes_Hierarchical_Models_etc.pdf)
-	
-## Bonus Teaching Resources
-These were written by me for previous courses I've taught
-* [Point of Stats](Point of Stats.pdf) - this is a presentation which talks about hypothesis testing, how it's applied to OLS, and what estimation is all about
