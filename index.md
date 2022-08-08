@@ -2,6 +2,7 @@ Welcome to this GitHub page for EC212 Introduction to Econometrics! This is wher
 
 ## Class Material
 * **Class 1 Slides** [here](First_EC212_Class.pdf) on an introduction to the course and on Stata
+* **General Feedback from the questions on the first weekend's PS** [here](PS1_feedback.pdf)
 
 ## Bonus Resources for EC212
 These were written by me for previous courses that I've taught at LSE
